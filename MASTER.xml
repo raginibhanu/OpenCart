@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Suite">
+  <groups>
+      <run>
+      
+         <!--include name="smoke" />-->
+         <!--  include name="sanity" />-->
+         <include name="smoke"/>
+         <include name="sanity"/>
+      </run>
+      
+      </groups>
+      
+     <listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+      
+
+
+  <test  thread-count="5" name="Test">
+  
+    
+      <parameter name="os" value="windows" />
+      <parameter name="browser" value="chrome" />
+    <classes>
+    
+    
+     <class name="testCase.TC_001_AcccountRegistration"/>
+      <class name="testCase.TC_002_LoginTest"/>
+      <!-- class name="testCase.TC_003_LoginTestDDT" />-->
+      
+      
+      
+    </classes>
+    
+  </test> 
+</suite> 

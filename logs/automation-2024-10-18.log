@@ -1,0 +1,53 @@
+19:01:09.168 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:01:09.208 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:01:10.109 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:02:37.634 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:02:37.830 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:02:38.943 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:02:38.946 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:02:39.832 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:02:50.410 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:02:51.294 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:12:17.205 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:12:17.456 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:12:17.664 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:12:17.667 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:12:34.976 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:12:35.828 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:13:07.448 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:13:08.251 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:13:09.158 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:13:09.159 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:13:10.347 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:13:24.712 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:13:25.647 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:13:58.591 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:13:58.854 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:13:59.610 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:13:59.613 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:14:00.717 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:14:10.565 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:14:26.932 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:14:27.098 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:14:28.000 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:14:28.005 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:14:28.956 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:14:42.955 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:14:43.884 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:16:15.122 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:16:15.306 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:16:16.220 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:16:16.234 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:16:17.136 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:16:27.598 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:16:28.402 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:16:41.635 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:16:41.782 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:16:42.574 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
+19:16:42.576 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
+19:16:43.472 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
+19:16:58.963 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
+19:16:59.741 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+19:28:51.369 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
+19:28:51.608 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
+19:28:52.458 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link

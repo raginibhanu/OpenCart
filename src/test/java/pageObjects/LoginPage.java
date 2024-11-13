@@ -1,11 +1,15 @@
 package pageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends BasePage{
 
+	 JavascriptExecutor js;
+	
+	
     	public LoginPage(WebDriver driver) {
 	   	super(driver);
 		
@@ -26,6 +30,8 @@ public class LoginPage extends BasePage{
 	     
 	
 	     public void setUsername(String uname) {
+
+	    	 
 	    	 
 	    	 txt_email_box.sendKeys(uname);
 	    	 
@@ -33,6 +39,8 @@ public class LoginPage extends BasePage{
 	
 	
 	     public void setPassword(String pass) {
+	    	 
+	    	 
 	    	 
 	    	 txt_password_box.sendKeys(pass);
 	    	 

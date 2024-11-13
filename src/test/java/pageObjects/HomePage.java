@@ -4,6 +4,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 public class HomePage extends BasePage {
 	
@@ -60,6 +61,36 @@ public class HomePage extends BasePage {
 		
 		 login_link.click();		
 	}
+	
+	
+	
+	public boolean LoginlinkDisplayed() {
+		
+	try {
+		
+	 return (login_link.isDisplayed());
+	
+	
+	}
+	
+	catch(Exception e) {
+		
+		return false;
+		
+		
+	}
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 

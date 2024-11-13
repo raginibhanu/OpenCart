@@ -32,7 +32,7 @@ public class TC_001_AcccountRegistration extends BaseClass {
 	    	   
 	    	   AccountRegistrationPage rp=new AccountRegistrationPage(driver);
 	    	  try { 
-	    	   logger.info("eneter the custmer details");
+	    	   logger.info("enter the customer details");
 	    	    rp.firstName(randomString().toUpperCase());
 	    	    rp.lastName(randomString().toUpperCase());
 	    	    rp.Email(randomString()+"@gamil.com");

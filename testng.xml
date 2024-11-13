@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Suite">
+<suite thread-count="5" name="Suite">
 
 
 
@@ -11,13 +11,16 @@
      
 
 
-  <test thread-count="2" name="Test">
+  <test thread-count="5" name="Test">
  <parameter name="os" value="windows"/>
   <parameter name="browser" value="chrome"/>
     <classes>
       
-      <class name="testCase.TC_001_AcccountRegistration"/>
-      <class name="testCase.TC_002_LoginTest"/>
+     <!-- class name="testCase.TC_001_AcccountRegistration"/>-->
+      <!--class name="testCase.TC_002_LoginTest"/>-->
+      
+      <!-- class name="testCase.TC_003_LoginDDT"/> -->
+      <class name="testCase.TC_004_LogoutFunctionality"/>
       
     </classes>
   </test> <!-- Test -->

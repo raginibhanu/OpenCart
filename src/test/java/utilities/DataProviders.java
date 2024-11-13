@@ -9,7 +9,7 @@ public class DataProviders {
 	@DataProvider(name="LoginData")
 	public String[][] TestLogin() throws IOException{
 		
-		String path="C:\\Users\\bhanu\\Downloads\\OpencartLoginData.xlsx";
+		String path="C:\\Users\\bhanu\\Downloads\\Opencartlogin.xlsx";
 		
 		EXCELUTILITY util= new EXCELUTILITY(path);
 		

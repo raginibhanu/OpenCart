@@ -1,23 +1,4 @@
-21:07:19.994 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
-21:07:24.056 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
-12:51:31.581 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
-12:51:34.711 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
-12:51:41.548 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
-12:51:41.601 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
-12:51:42.804 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
-12:51:58.616 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
-12:52:03.073 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
-14:20:12.314 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
-14:20:15.653 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
-14:20:22.632 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
-14:20:22.638 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
-14:20:24.176 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
-14:20:42.820 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
-14:20:47.258 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
-14:28:27.648 [main] INFO  testCase.TC_001_AcccountRegistration - **** STARTING REGISTER AN ACCOCONT ******
-14:28:30.902 [main] INFO  testCase.TC_001_AcccountRegistration - click my account drop down
-14:28:35.224 [main] INFO  testCase.TC_001_AcccountRegistration - click on register link
-14:28:35.237 [main] INFO  testCase.TC_001_AcccountRegistration - eneter the custmer details
-14:28:36.419 [main] INFO  testCase.TC_001_AcccountRegistration - after finishing custmer details
-14:28:50.679 [main] INFO  testCase.TC_002_LoginTest - ****** Started Tc_002_TestCase
-14:28:54.772 [main] INFO  testCase.TC_002_LoginTest - login link click on home page under register link
+13:14:08.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:14:08.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:14:08.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:14:08.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
